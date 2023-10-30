@@ -106,11 +106,6 @@ hr.dash {
 	text-align: center;
 	position: static;
 	display: inline-block;
-	/* width: 100%;
-	margin: auto;
-	-webkit-column-gap: 6px;
-	-moz-column-gap: 6px;
-	column-gap: 6px; */
 }
 @media only screen and (min-width : 921px) and (max-width: 1024px) {
 	.gallery {
@@ -172,7 +167,6 @@ hr.dash {
 	width: 125px;
 }
 #about {
-	/* color: #ddeedd; */
 	font-size: 1em;
 }
 
@@ -207,7 +201,6 @@ footer {
 	font-size: 1.13em;
 	font-weight: 700;
 	margin: 0 auto;
-	/* margin: -6px -6px; */
 	padding: 13px 6px;
 	text-align: center;
 }
