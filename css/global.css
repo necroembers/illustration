@@ -136,7 +136,7 @@ hr.dash {
 	text-align: center;
 }
 .gallery img:hover {
-	filter: contrast(118%) hue-rotate(-36deg);
+	filter: brightness(1.13) hue-rotate(24deg);
 }
 .gallery p {
 	color: #aaffaa;
@@ -163,7 +163,7 @@ hr.dash {
 	-webkit-border-radius: 50%;
 	margin: 0 auto;
 	padding: 18px 6px;
-	width: 125px;
+	width: 95px;
 }
 #about {
 	font-size: 1em;
@@ -195,6 +195,13 @@ hr.dash {
 	color: #dfd;
 }
 
+.teepublic img {
+	max-width: 36px;
+}
+.teepublic img:hover {
+	filter: blur(.69px) invert(13%);
+}
+
 footer {
 	bottom: 0;
 	font-size: 1.13em;
@@ -216,5 +223,5 @@ footer a:hover {
 	padding: 6px 3px;
 }
 .footerSocial img:hover {
-	filter: blur(.66px) invert(13%);
+	filter: blur(.69px) invert(13%);
 }
