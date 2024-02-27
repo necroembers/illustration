@@ -79,7 +79,7 @@ header img {
 
 hr.dash {
 	border: 0;
-	border-bottom: 1px dashed #66cdef;
+	border-bottom: 1px dashed #66ddff;
 	height: 0;
 	margin: 0 auto;
 	text-align: center;
@@ -195,10 +195,10 @@ hr.dash {
 	color: #dfd;
 }
 
-.teepublic img {
+.shop img {
 	max-width: 36px;
 }
-.teepublic img:hover {
+.shop img:hover {
 	filter: blur(.69px) invert(13%);
 }
 
